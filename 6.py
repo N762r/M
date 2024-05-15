@@ -1,7 +1,7 @@
 # Initial data
 image_width = 2048  # pixels
-image_height = 1536  # pixels
-compression_ratio = 8  # the size of the image is reduced 8 times
+image_height = 512  # pixels
+compression_ratio = 4  # the size of the image is reduced 8 times
 service_info = 128 * 1024 * 8  # bits
 storage_size = 16 * 1024 * 1024 * 8  # bits for 32 images
 
