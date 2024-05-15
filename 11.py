@@ -33,10 +33,10 @@ def find_programs(start, end, must_include, must_not_include):
     return search(end, [])
 
 # Исходные данные задачи
-start_number = 1
-end_number = 25
-must_include_number = 11
-must_not_include_number = 15
+start_number = 5
+end_number = 60
+must_include_number = 20
+must_not_include_number = 30
 
 # Поиск всех программ
 programs_count = find_programs(start_number, end_number, must_include_number, must_not_include_number)
